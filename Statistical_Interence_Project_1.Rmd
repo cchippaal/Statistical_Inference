@@ -1,8 +1,8 @@
 ---
-title: 'Statistical Inference Course Project-1'
+title: "Statistical Inference Course Project-1"
 author: "Chakra C"
 date: "Sunday, May 24, 2015"
-output: pdf_document
+output: html_document
 ---
 
 ## OVERVIEW
@@ -71,5 +71,5 @@ The rate parameter ($\lambda$) is estimated from 95% confidence intervals ($\hat
 $\hat{\lambda}_{upp} = \hat{\lambda}(1 + \frac{1.96}{\sqrt{n}})$.
 From Graph-3 plot, selection for $\hat{\lambda}$ is around 5, sample mean avarage is within the confidence interval 95% of the time. And note that the real rate is $\lambda$ is 5.
 
-The report including the code for plots is available at
+
 
